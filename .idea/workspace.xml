@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a72a4399-5f8e-4f60-9f44-83ff34775455" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2exOrc5o3m8ttNqUY0JOsy3suKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Mensagem automática.executor": "Run",
+    "Python.Olá mundo.executor": "Run",
+    "Python.TESTE MATCH CASE.executor": "Run",
+    "Python.funções - 2.executor": "Run",
+    "Python.funções - 3.1.executor": "Run",
+    "Python.funções - 4.executor": "Run",
+    "Python.funções - 5.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_adivinhação.executor": "Run",
+    "Python.main_copia de segurança.executor": "Run",
+    "Python.main_copia.executor": "Run",
+    "Python.main_correto.executor": "Run",
+    "Python.main_par_ou_impar_2.0.executor": "Run",
+    "Python.menu.executor": "Run",
+    "Python.nov teste.executor": "Run",
+    "Python.novo_main.executor": "Run",
+    "Python.soma.executor": "Run",
+    "Python.teste lucas.executor": "Run",
+    "Python.teste.executor": "Run",
+    "Python.utils.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Dener/PycharmProjects/Aula senai",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dener\PycharmProjects\Aula senai_exercicios\Projetos" />
+      <recent name="C:\Users\Dener\Desktop\Dener" />
+      <recent name="C:\Users\Dener\PycharmProjects\Aula senai_exercicios\Projetos\Jogo de par ou ímpar" />
+      <recent name="C:\Users\Dener\PycharmProjects\Aula senai_exercicios\Projetos\Calculador de Ohm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dener\PycharmProjects\Aula senai_exercicios\Exercicios" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a72a4399-5f8e-4f60-9f44-83ff34775455" name="Changes" comment="" />
+      <created>1712842961833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712842961833</updated>
+      <workItem from="1712842962855" duration="4288000" />
+      <workItem from="1712927147756" duration="16700000" />
+      <workItem from="1713438478769" duration="10936000" />
+      <workItem from="1713457870063" duration="5552000" />
+      <workItem from="1713466275626" duration="1872000" />
+      <workItem from="1713468221086" duration="933000" />
+      <workItem from="1714041784287" duration="518000" />
+      <workItem from="1714042505655" duration="17182000" />
+      <workItem from="1714128446874" duration="18611000" />
+      <workItem from="1715341169277" duration="304000" />
+      <workItem from="1715342263438" duration="13399000" />
+      <workItem from="1715857036857" duration="13370000" />
+      <workItem from="1715970306829" duration="1987000" />
+      <workItem from="1715973012564" duration="833000" />
+      <workItem from="1716461210334" duration="11091000" />
+      <workItem from="1716548125074" duration="8938000" />
+      <workItem from="1717672510465" duration="1193000" />
+      <workItem from="1718281948835" duration="1288000" />
+      <workItem from="1722522100683" duration="3910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Aula_senai$nov_teste.coverage" NAME="nov teste Coverage Results" MODIFIED="1714130986636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Jogo de par ou ímpar" />
+    <SUITE FILE_PATH="coverage/Aula_senai$funções___4.coverage" NAME="funções - 4 Coverage Results" MODIFIED="1716482088281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Exercicios/Funções" />
+    <SUITE FILE_PATH="coverage/Aula_senai$funções___2.coverage" NAME="funções - 2 Coverage Results" MODIFIED="1715869487170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Exercicios/Funções" />
+    <SUITE FILE_PATH="coverage/Aula_senai$main_adivinhação.coverage" NAME="main_adivinhação Coverage Results" MODIFIED="1714153967840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Jogo de adivinhação" />
+    <SUITE FILE_PATH="coverage/Aula_senai$main_correto.coverage" NAME="main_correto Coverage Results" MODIFIED="1714148919501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Jogo de par ou ímpar" />
+    <SUITE FILE_PATH="coverage/Aula_senai$TESTE_MATCH_CASE.coverage" NAME="TESTE MATCH CASE Coverage Results" MODIFIED="1714155348947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos" />
+    <SUITE FILE_PATH="coverage/Aula_senai$soma.coverage" NAME="soma Coverage Results" MODIFIED="1715364743976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Exercicios/Funções" />
+    <SUITE FILE_PATH="coverage/Aula_senai$funções___3_1.coverage" NAME="funções - 3.1 Coverage Results" MODIFIED="1716471223167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Exercicios/Funções" />
+    <SUITE FILE_PATH="coverage/Aula_senai$funções___5.coverage" NAME="funções - 5 Coverage Results" MODIFIED="1716481887626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Exercicios/Funções" />
+    <SUITE FILE_PATH="coverage/Aula_senai$utils.coverage" NAME="utils Coverage Results" MODIFIED="1716553717992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Calculador de Ohm" />
+    <SUITE FILE_PATH="coverage/Aula_senai$main_par_ou_impar_2_0.coverage" NAME="main_par_ou_impar_2.0 Coverage Results" MODIFIED="1714151111531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Jogo de par ou ímpar" />
+    <SUITE FILE_PATH="coverage/Aula_senai$teste.coverage" NAME="teste Coverage Results" MODIFIED="1713464018812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Calculador de Ohm" />
+    <SUITE FILE_PATH="coverage/Aula_senai$novo_main.coverage" NAME="novo_main Coverage Results" MODIFIED="1714139626765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Jogo de par ou ímpar" />
+    <SUITE FILE_PATH="coverage/Aula_senai$teste_lucas.coverage" NAME="teste lucas Coverage Results" MODIFIED="1714148360630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Jogo de par ou ímpar" />
+    <SUITE FILE_PATH="coverage/Aula_senai$main.coverage" NAME="main Coverage Results" MODIFIED="1716553936356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Calculador de Ohm" />
+    <SUITE FILE_PATH="coverage/Aula_senai$Olá_mundo.coverage" NAME="Olá mundo Coverage Results" MODIFIED="1712853934543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/11_04_23" />
+    <SUITE FILE_PATH="coverage/Aula_senai$main_copia.coverage" NAME="main_copia Coverage Results" MODIFIED="1714064480123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Jogo de par ou ímpar" />
+    <SUITE FILE_PATH="coverage/Aula_senai$main_copia_de_segurança.coverage" NAME="main_copia de segurança Coverage Results" MODIFIED="1713464526881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Projetos/Calculador de Ohm" />
+    <SUITE FILE_PATH="coverage/Aula_senai$menu.coverage" NAME="menu Coverage Results" MODIFIED="1715368701660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Exercicios/Funções" />
+    <SUITE FILE_PATH="coverage/Aula_senai$Mensagem_automática.coverage" NAME="Mensagem automática Coverage Results" MODIFIED="1715863044824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Aula senai_exercicios/Exercicios/Funções" />
+  </component>
+</project>
